@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**shiye-tech/shiye-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Merhaba! Ben Furkan
 
-Here are some ideas to get you started:
+Ben siber güvenliğe meraklı biriyim ve bu alanı öğrenmeye çalışıyorum. Şu an yolun başındayım ama kendimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Hedefim
+
+- Linux sistemlerde orta üst seviye komutlara ve dosya yapısına hakimiyetimi geliştirmek
+- Python öğrenmeye başlamak, ileride küçük güvenlik scriptleri yazabilmek
+- Nmap ve benzeri ağ tarama araçlarını daha verimli kullanmak
+- Diğer güvenlik araçlarını daha verimli kullanmak
+- TryHackMe ve benzeri platformlarda pratik yaparak bilgimi artırmak
+- Siber güvenlik alanında notlar tutmak, öğrendiklerimi GitHub üzerinden paylaşmak
+
+## 🧠 Öğrenme Yolculuğum
+
+Bu profil, öğrendiğim şeyleri not aldığım bir yer. Bazı projeleri deneme amaçlı ekliyorum. Her şeyi bilmiyor olabilirim ama araştırmayı seviyorum.
+
+## 💻 İlgi Alanlarım
+
+- Ağ güvenliği
+- Sızma testleri
+- Siber güvenlik araçları
+- Sosyal mühendislik ve zafiyet analizi
+
+## 📚 Öğrendiğim Platformlar
+
+- TryHackMe
+- BTK Akademi
+- HackTheBox (başlangıç seviyesi)
+
+## 📫 İletişim
+
+Her zaman yardıma ve sohbete açığım!  
+📧 Email: unal.furkan.082@gmail.com
+
