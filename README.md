@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Merhaba! Ben Furkan
 
 Ben siber güvenliğe meraklı biriyim ve bu alanı öğrenmeye çalışıyorum. Şu an yolun başındayım ama kendimi geliştiriyorum.
